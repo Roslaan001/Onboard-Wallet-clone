@@ -1,0 +1,298 @@
+html {
+  font-size:62.5%
+}
+
+body { font-family: "Poppins", sans-serif;
+
+
+}
+
+
+#logo {float: left;
+color: blue;
+padding: 15px;}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color:white;
+}
+
+li {
+  float: right;
+}
+
+li a {
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  color: blue;
+}
+
+#mark {width: 15px;
+        height: 13px;
+
+}
+
+#mark1 {width: 20px;
+  height: 18px;
+
+}
+
+
+
+header {text-align: center;}
+
+h1 {font-weight: 1000px;
+    font-size: 7rem;
+
+}
+
+.p1 {font-size: 3rem;} 
+
+.pan {background-color: black;
+      color: white;
+      padding: 15px;
+      border-radius: 15px;
+      word-break: break-all;
+    
+    }
+
+    #grp {padding-top: 50px;}
+
+/*p {background-color: black;}*/
+
+.img1 {display: block;
+      width: 80%;
+        height: 650px;
+        margin-right: auto;
+        margin-left: auto;
+}
+
+section.b {background-color: #f1f4f9;
+            padding: 10px;}
+
+.div1 { position: relative;
+  height: 1000px;
+  width: 100%;
+ }
+
+.img2 {position: absolute;
+top: 100px;
+left: 100px;
+}
+
+#img21 {width: 700px;
+        height: 820px;}
+
+
+
+.hot {color: white;
+      background-color: red;
+      width: 30px;
+      padding: 15px;
+      border-radius: 20px;
+      font-weight: bold;
+      border: none;
+
+}
+
+.div2 {position: absolute;
+        left: 850px;
+        top: 90px;
+        width: 550px;
+}
+
+.Earn-co {font-size: 2.5rem;}
+
+.save-in {font-size: 5rem;}
+
+.bg {background-color: rgb(233, 227, 227, 0.1);
+      
+}
+
+section.c { position: relative;
+  height: 950px;
+  width: 100%;
+}
+
+div.Crypto {position: absolute;
+  width: 550px;
+            top: 200px;
+            left:200px;
+}
+
+
+.hand {position: absolute;
+        left: 900px;
+        top: 70px;
+}
+
+.Learn-more {font-size: medium;
+background-color: black;
+width: 100px;
+color:white;
+border-radius: 50px;
+padding: 20px;
+margin: 10px;
+}
+
+
+
+
+section.d { position: relative;
+  height: 1000px;
+  width: 100%;
+}
+
+.why {position: absolute;
+      left: 90px;
+      top: -5px;
+  font-size: 5.5rem;
+  font-weight: 700;
+}
+
+div.z {position: absolute;
+        left: 150px;
+        top: 150px;
+
+
+}
+
+
+.div3 {position: absolute;
+  left: 950px;
+  top: 250px;
+  width: 550px;
+}
+
+section.e {background-color: #000D20;
+}
+
+div.y { position: relative;
+  height: 950px;
+  width: 100%;
+  color: white;
+}
+
+div.y2 {position: absolute;
+        left: 550px;
+        top: 20px;
+}
+
+div.ease {position: absolute;
+          left: 200px;
+          top: 400px;
+}
+
+div.bold {font-weight: bold;}
+  
+
+.color {background-color: #ffffff;
+                border-radius: 15px;
+}
+
+div.self {position: absolute;
+  left: 600px;
+  top: 300px;
+  width: 270px;
+  background-color: #011027;
+  padding: 5px 30px;
+  border-radius: 20px;
+  
+}
+
+.self-font {font-size: 2.5rem;
+            font-weight: bold;
+}
+
+
+
+div.onb {position: absolute;
+  left: 1100px;
+  top: 300px;
+  width: 270px;
+  background-color: #011027;
+  padding: 5px 30px;
+  border-radius: 20px;
+  border: 4px solid #01cfff;
+}
+
+.image {position: absolute;
+        left: 1350px;
+        top: 250px;
+        z-index: 1;
+}
+
+
+section.f { position: relative;
+  height: 950px;
+  width: 100%;
+}
+
+
+div.u {position: absolute;
+  left: 150px;
+  top: 150px;
+
+
+}
+
+
+.div4 {position: absolute;
+left: 950px;
+top: 270px;
+width: 550px;
+}
+
+details {background-color: whitesmoke;
+  padding: 15px;
+  border-radius: 5px;
+}
+
+.ul2 {
+  list-style-type: lower-alpha;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #f1f4f9;
+}
+
+.li2 {
+  float: left;
+  text-indent: 30px;
+}
+
+
+footer {background-color: #000D20;
+        padding: 10px;
+        border-radius: 5px;
+color: white;}
+
+div.pad {padding-left: 50px;}
+
+.onboard {font-size: 3rem;}
+
+.par {font-size: 15px;}
+
+table {width: 80%;
+        text-align: right;}
+
+th {padding: 5px;}
+
+.all {text-align: center;
+      font-size: 1.5rem;
+}
+
+.icon { width: 10px;
+        height: 10px;}
+
+
+
